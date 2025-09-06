@@ -28,3 +28,8 @@ npm start
 
 #start backend
 run main file
+
+<img width="1505" height="908" alt="demo1" src="https://github.com/user-attachments/assets/7bbb2bf3-6872-4a1e-b3bb-a5f96cd6fbe2" />
+
+<img width="1495" height="897" alt="demo2" src="https://github.com/user-attachments/assets/bcfcd4d2-b75d-4639-8d4f-0fb484720f98" />
+
